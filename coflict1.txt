@@ -1,6 +1,0 @@
-line from local
-
-new line form local
-=======
-new line from remote
-
