@@ -1,2 +1,2 @@
-revet first line
+revert first line
  
